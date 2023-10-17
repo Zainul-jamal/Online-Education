@@ -1,3 +1,4 @@
+
 navbar{
     width: 90%;
     height: 100vh;
@@ -6,16 +7,16 @@ position: fixed;
 pic{
   width: 200px;
 }
-h3{
+h3,h1,h2{
   text-align: center;
   font-family:'Times New Roman', Times, serif;
 }
 form{
-
+margin: 5%;
   padding: 20px;
-  border: 1px solid red;
-
+  border: 1px solid sandybrown;
+ 
 }
 img{
-
+width: 95%;
 }
